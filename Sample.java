@@ -4,7 +4,6 @@ public class Sample
 	{
 		System.out.println("Hello from EC2 instance");
 		System.out.println("Hello");
-		System.out.print("hi");
 		System.out.println("Chanchi");
 		System.out.print("web hook Working");
 	}
